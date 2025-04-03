@@ -1,3 +1,5 @@
+steam_data=/home/me/.local/share/Steam
+
 bac(){
 mkdir -p ~/.uni/Alchemy/Singularity/StarCraftII
 btrfs sub snap -r ~/.local/share/Steam ~/.uni/Alchemy/Singularity/StarCraftII/Steam.bac
